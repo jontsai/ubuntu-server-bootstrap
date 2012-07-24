@@ -1,6 +1,6 @@
 command-not-found
 command-not-found-data
-emacs
+emacs23-nox
 keychain
 mailutils
 p7zip-full
